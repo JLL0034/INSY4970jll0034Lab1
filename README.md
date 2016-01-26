@@ -1,2 +1,3 @@
 # INSY4970Lab
-username: AUusername<br>
+username: JLL0034
+This is the readme file for the INSY4970 lab
